@@ -1,5 +1,4 @@
 # Elevator
-An Implementation of An Elevator
 
 This is an implementation of an elevator which the current floor number and the destination floor number are displayed via a seven-segment display.
 The user can add floor number with an external button and decrease it with another external button and confirm the destination with the third external button.
